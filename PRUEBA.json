@@ -41,6 +41,11 @@
          "source":4,
          "target":0,
          "value":12
-      }
+      },
+      {
+         "source":5,
+         "target":0,
+         "value":12
+      }         
    ]
 }
