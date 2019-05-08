@@ -38,12 +38,12 @@
          "value":10
       },
       {
-         "source":3,
+         "source":4,
          "target":0,
          "value":6
       },
       {
-         "source":4,
+         "source":5,
          "target":0,
          "value":1
       }
