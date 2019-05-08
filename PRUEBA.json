@@ -14,11 +14,11 @@
       },
       {
          "name":"RT",
-         "group":4
+         "group":3
       },
       {
          "name":"T",
-         "group":5
+         "group":2
       }
    ],
    "links":[
@@ -39,12 +39,12 @@
       },
       {
          "source":3,
-         "target":1,
+         "target":0,
          "value":6
       },
       {
          "source":4,
-         "target":2,
+         "target":0,
          "value":1
       }
    ]
