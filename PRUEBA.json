@@ -2,7 +2,7 @@
    "nodes":[
       {
          "name":"@Manuelmora8890",
-         "group":2
+         "group":1
       },
       {
          "name":"T",
@@ -10,11 +10,11 @@
       },
       {
          "name":"RT",
-         "group":2
+         "group":3
       },
       {
          "name":"RT",
-         "group":2
+         "group":3
       },
       {
          "name":"T",
@@ -40,7 +40,7 @@
       {
          "source":4,
          "target":0,
-         "value":11
+         "value":12
       },
       {
          "source":5,
